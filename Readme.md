@@ -15,7 +15,7 @@ This is a simple Node.js application that implements a user signup and login API
 
 -Node.js
 -Express.js
--MongoDB (or any other database of your choice)
+-MongoDB 
 -JSON Web Tokens (JWT)
 -Bcrypt for password hashing
 -MVC architecture for code organization
@@ -25,7 +25,7 @@ This is a simple Node.js application that implements a user signup and login API
 ## API Endpoints
 
 - POST /signup: Register a new user.
-- POST /login: Log in with an existing user and receive a JWT token.
+- POST /signin: Log in with an existing user and receive a JWT token.
 
 ## Folder Structure
 
